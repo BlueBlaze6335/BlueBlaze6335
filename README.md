@@ -11,7 +11,9 @@ I am a fast learner and innovative. Although I am lazy 😁 , I do my job on tim
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/padmanabha-banerjee-b16800171//) - ***LinkedIn***
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](pbanerjee0801@gmail.com)  - ***Email***
+[![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pbanerjee0801@gmail.com)](mailto:pbanerjee0801@gmail.com) - ***Email***
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueBlaze6335&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBlaze6335)](https://github.com/anuraghazra/github-readme-stats)
 
