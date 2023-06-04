@@ -1,7 +1,7 @@
 <body style="color:white">
     <h1 style='color:cyan'><font size="+3">Welcome 🖖</font></h1>
 
-<font size="+1">I am Padmanabha Banerjee🤓, currently a final year student at Jalpaiguri Government Engineering College, pursuing Electronics and Communication Engineering. I am a Machine Learning 💻 and Robotics 🤖 Enthusiast ! I love making machine learning and mechatronics projects. My Goal is to make smart robots and devices with the help of machine learning and deep learning. I am currently studying about Machine learning , Deep learning and Electronics. My interests are in Deep Learning , Computer Vision and GANs. My hobbies are making RC cars 🏎 , planes🛩 and drones🛸 ; painting and listening to songs. 
+<font size="+1">Currently a final year student at Jalpaiguri Government Engineering College, pursuing Electronics and Communication Engineering. I am a Machine Learning 💻 and Robotics 🤖 Enthusiast ! I love making machine learning and mechatronics projects. My Goal is to make smart robots and devices with the help of machine learning and deep learning. I am currently studying about Machine learning , Deep learning and Electronics. My interests are in Deep Learning , Computer Vision and GANs. My hobbies are making RC cars 🏎 , planes🛩 and drones🛸 ; painting and listening to songs. 
 
 I am a fast learner and innovative. Although I am bit lazy 😁 , I do my job on time , other than chores 😬.</font>
 </body>
